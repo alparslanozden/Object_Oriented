@@ -1,7 +1,6 @@
 package com.alparslan.object_oriented
 
 fun main(){
-
     val bmw = Araba()
 
     println(bmw.renk)
@@ -15,6 +14,5 @@ fun main(){
     println(bmw.renk)
     println(bmw.calisiyorMu)
     println(bmw.hiz)
-
 
 }
